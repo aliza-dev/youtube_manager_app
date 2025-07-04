@@ -60,6 +60,22 @@ A simple command-line CRUD application to manage your YouTube videos using Pytho
 - Make sure to enter correct IDs when updating or deleting videos.
 - To stop the app, select option 5.
 
-## License
+# 📸 Screenshots
 
-This project is open-source and free to use.
+### 1. App Start & Listing Existing Videos
+This screenshot shows the initial menu and listing of existing videos in the database.
+![App Start](output1.jpeg)
+
+---
+
+### 2. Adding Videos to Database
+User adds new videos like `projects video` and `grocery store`, and they are saved successfully.
+![Add Video](output2.jpeg)
+
+---
+
+### 3. Updating Video Information
+User updates the video with ID 1 to `snake game` with new duration.
+![Update Video](output3.jpeg)
+
+
